@@ -6,7 +6,7 @@ NIM : 312210167
 Kelas : TI.22.A1
 
 
-Tugas Praktikum 8
+## Tugas Praktikum 8
 
 Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class untuk menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
@@ -23,9 +23,9 @@ Buat program sederhana dengan mengaplikasikan penggunaan class. Buatlah class un
 
 -Commit dan push repository ke github.
 
-Praktikum 8
+## Praktikum 8
 
-Rumus :
+## Rumus :
 
     class mahasiswa:
 
@@ -128,7 +128,7 @@ Rumus :
     else:
         print("\nPerintah yang dimasukkan salah!\n")
         
-Program :
+## Program :
 
 ![PRAKTIKUM8](https://user-images.githubusercontent.com/116045324/207204871-4f719f0d-f49f-43b4-88a9-bf1a0e31e398.PNG)
 
@@ -141,7 +141,7 @@ Program :
 
 
 
-Hasil Run & Penjelasan Program:
+## Hasil Run & Penjelasan Program:
 
 -Pertama kita mendeklarasikan sebuah class mahasiswa yang didalamnya terdapat atribut NIM, Nama, nilai tugas, nilai UTS dan nilai UAS. Jangan lupa, untuk mendeklarasikan sebuah class didalam OOP kita harus menggunakan def__init__ dan juga self.
 
@@ -167,7 +167,7 @@ Hasil Run & Penjelasan Program:
         data.uts.append(uts)
         data.uas.append(uas)
 		
-Ini tampilan jika kita menginput	method :Tambah()
+-Ini tampilan jika kita menginput	method :Tambah()
 	
 
 ![HASILRUNPRAKTIKUM8](https://user-images.githubusercontent.com/116045324/207205136-4ffe14eb-d13a-4076-9736-f2a5e9c033b2.PNG)
@@ -200,7 +200,7 @@ Ini tampilan jika kita menginput method : Lihat()
         self.uas[no] = uas
 		
 		
-Ini tampilan jika kita menginput method : Ubah()
+-Ini tampilan jika kita menginput method : Ubah()
 
 ![HASILRUN3](https://user-images.githubusercontent.com/116045324/207205246-08470d20-2242-48bc-8c9e-57608b7588e7.PNG)
 
@@ -217,23 +217,23 @@ Ini tampilan jika kita menginput method : Ubah()
         del self.uts[no]
         del self.uas[no]
 		
-Ini tampilan jika kita menginput method : Hapus()
+-Ini tampilan jika kita menginput method : Hapus()
 
 
 ![HASILRUN5](https://user-images.githubusercontent.com/116045324/207205339-e524cdfb-087b-4c44-9a4d-8053538e96c2.PNG)
 
 
-Diagram Class Praktikum 8
+## Diagram Class Praktikum 8
 
 
 ![image](https://user-images.githubusercontent.com/116045324/207205597-892ec790-4abd-4ebf-be44-047e71275a5b.png)
 
 
 
-Flowchart Praktikum 8
+## Flowchart Praktikum 8
 
 
 ![image](https://user-images.githubusercontent.com/116045324/207205654-88755a04-a35c-49e0-baed-be6025c6c573.png)
 
 
-Sekian, Terima kasih
+## Sekian, Terima kasih
